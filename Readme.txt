@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+🔗 Live Demo:
+https://alishbaraees55-eng.github.io/seo/
 
-Template Name: Blogy
-Template URL: https://bootstrapmade.com/blogy-bootstrap-blog-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
